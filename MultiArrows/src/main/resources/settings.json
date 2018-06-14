@@ -1,16 +1,15 @@
 {
   "bow": {
-    "name": "&eCustom",
-    "lore": [
-      "&ccustom"
-    ],
-    "flameMode": true,
-    "arrows_size": 15,
-    "permissionMode": false,
-    "default_permission": "multiarrows.use"
+    "name": "&eCustom", // default bow item name
+    "lore": [     // bow item lore
+      "&ccustom"  // bow item lore
+    ],           // bow item lore
+    "arrows_size": 15, // max arrows size (on shoot)
+    "permissionMode": false, // permission mode
+    "default_permission": "multiarrows.use" // permission for use this bow (if permission mode enabled)
   },
   "messages": {
-    "permissionsError": "&cИзвините, у вас недосточно прав, чтобы использовать данный лук.",
-    "arrows_not_found_message": "&cИзвините, у вас нет стрел."
+    "permissionsError": "&cИзвините, у вас недосточно прав, чтобы использовать данный лук.", //message if player not have permissions
+    "arrows_not_found_message": "&cИзвините, у вас нет стрел." // player inventory not contained arrows 
   }
 }
