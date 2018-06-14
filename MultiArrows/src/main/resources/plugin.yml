@@ -1,0 +1,4 @@
+name: MultiArrows
+version: ${project.version}
+main: sexy.criss.multiarrows.MultiArrows
+authors: [d3ever]

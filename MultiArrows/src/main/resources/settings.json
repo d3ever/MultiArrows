@@ -1,0 +1,16 @@
+{
+  "bow": {
+    "name": "&eCustom",
+    "lore": [
+      "&ccustom"
+    ],
+    "flameMode": true,
+    "arrows_size": 15,
+    "permissionMode": false,
+    "default_permission": "multiarrows.use"
+  },
+  "messages": {
+    "permissionsError": "&cИзвините, у вас недосточно прав, чтобы использовать данный лук.",
+    "arrows_not_found_message": "&cИзвините, у вас нет стрел."
+  }
+}
